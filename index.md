@@ -1,4 +1,4 @@
-
+<html>
 <head>
     <link rel="stylesheet" href="/style.css">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
@@ -22,4 +22,7 @@
 - [History](history.md)
 - [Culture](culture.md)
 - [Tourism](tourism.md)
-- [Contact](contact.md)
+    <footer>
+        - [Contact](contact.md)
+    </footer>
+</html>
