@@ -12,7 +12,7 @@ Lebanon came under Roman rule in the 1st century BC. The Romans built significan
 
 ### Key Highlights
 - **Baalbek**: Known for its colossal temples dedicated to Jupiter, Bacchus, and Venus, Baalbek remains one of the best-preserved Roman archaeological sites.
-<img style="width: 100%" src="images/2-baalbek.jpg">
+<img style="width: 50%" src="images/2-baalbek.jpg">
 
 -
 - **Christianity**: Lebanon played a crucial role in the early spread of Christianity, with many ancient churches and monasteries established during this period.
