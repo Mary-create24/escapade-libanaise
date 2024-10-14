@@ -1,10 +1,8 @@
 <!-- Étape 1: Lien vers Google Fonts pour la police Cairo -->
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
 
-<!-- Optionnel : Ajouter une image du cèdre libanais au-dessus du titre -->
 <p style="text-align: center;">
-  <img src="https://github.com/Mary-create24/escapade-libanaise/raw/main/image-liban.jpg
-">
+  <img src="https://github.com/Mary-create24/escapade-libanaise/raw/main/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
 </p>
 
 <!-- Titre stylé avec des couleurs -->
