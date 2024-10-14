@@ -23,6 +23,5 @@
 - [Culture](culture.md)
 - [Tourism](tourism.md)
     <footer>
-        - [Contact](contact.md)
     </footer>
 </html>
