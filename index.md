@@ -3,9 +3,9 @@
 
 <!-- Add the image in full width -->
 <p style="text-align: center;">
-  <img src="<p style="text-align: center;">
   <img src="images/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
 </p>
+
 " alt="Image du Liban" style="width: 100%;">
 </p>
 
