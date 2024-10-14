@@ -12,7 +12,6 @@ Lebanon came under Roman rule in the 1st century BC. The Romans built significan
 
 ### Key Highlights
 - **Baalbek**: Known for its colossal temples dedicated to Jupiter, Bacchus, and Venus, Baalbek remains one of the best-preserved Roman archaeological sites.
-![Baalbek Ruins](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/2-baalbek.jpg)
 <img src="images/2-baalbek.jpg">
 
 -
