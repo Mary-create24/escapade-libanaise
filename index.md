@@ -3,7 +3,7 @@
 
 <!-- Add the image in full width -->
 <p style="text-align: center;">
-  <img src="images/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
+  <img src="https://raw.githubusercontent.com/Mary-create24/escapade-libanaise/main/images/1-image-liban.jpg" alt="Image du Liban" style="width: 100%;">
 </p>
 
 <!-- Create the stylized title -->
@@ -20,4 +20,3 @@
 - [Culture](culture.md)
 - [Tourism](tourism.md)
 - [Contact](contact.md)
-
