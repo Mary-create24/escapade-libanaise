@@ -16,7 +16,7 @@
 <!-- Section to explore other parts of the website -->
 ## Explore Lebanon
 
-- [History](history.md)
-- [Culture](culture.md)
+- [History](2-history.md)
+- [Culture](3-culture.md)
 - [Tourism](tourism.md)
 - [Contact](contact.md)
