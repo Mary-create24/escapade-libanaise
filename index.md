@@ -1,5 +1,8 @@
 <!-- Link to Google Fonts for the Cairo font -->
 <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
+<head>
+    <link rel="stylesheet" href="css/style.css"> <!-- Adjust the path as necessary -->
+</head>
 
 <!-- Add the image in full width -->
 <p style="text-align: center;">
