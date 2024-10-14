@@ -20,4 +20,3 @@
 - [Culture](culture.md)
 - [Tourism](tourism.md)
 - [Contact](contact.md)
-<img src="images/2-baalbek.jpg">
