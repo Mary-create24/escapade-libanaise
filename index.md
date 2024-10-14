@@ -3,7 +3,10 @@
 
 <!-- Add the image in full width -->
 <p style="text-align: center;">
-  <img src="https://github.com/Mary-create24/escapade-libanaise/raw/main/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
+  <img src="<p style="text-align: center;">
+  <img src="images/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
+</p>
+" alt="Image du Liban" style="width: 100%;">
 </p>
 
 <!-- Create the stylized title -->
