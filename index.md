@@ -3,7 +3,8 @@
 
 <!-- Optionnel : Ajouter une image du cèdre libanais au-dessus du titre -->
 <p style="text-align: center;">
-  <img src="https://github.com/Mary-create24/escapade-libanaise/raw/main/image-liban.jpg" alt="Image du Liban" style="width: 100%;">
+  <img src="https://github.com/Mary-create24/escapade-libanaise/raw/main/image-liban.jpg
+">
 </p>
 
 <!-- Titre stylé avec des couleurs -->
