@@ -3,7 +3,7 @@
 
 <!-- Optionnel : Ajouter une image du cèdre libanais au-dessus du titre -->
 <p style="text-align: center;">
-  <img src="URL_DE_L_IMAGE_DU_CÈDRE" alt="Cèdre Libanais" width="150">
+  <img src="https://r.search.yahoo.com/_ylt=AwrNYUPxgw1np.gQhEJXNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Nj/RV=2/RE=1730148594/RO=10/RU=https%3a%2f%2ffr.dreamstime.com%2fc%25C3%25A8dre-du-liban-image128517672/RK=2/RS=A2h2TH8Q8Jvy.DTddCIreJ4MmbM-" alt="Cèdre Libanais" width="150">
 </p>
 
 <!-- Étape 2: Création du titre stylé avec des couleurs et une jolie police -->
