@@ -1,9 +1,29 @@
 <head>
     <link rel="stylesheet" href="style.css">
+    <script>
+        // Script pour cacher le menu lorsque l'utilisateur scroll vers le bas
+        document.addEventListener("DOMContentLoaded", function() {
+            let lastScrollTop = 0;
+            const nav = document.querySelector('nav');
+            
+            window.addEventListener("scroll", function() {
+                let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+
+                if (scrollTop > lastScrollTop) {
+                    // Scroll vers le bas, on cache le menu
+                    nav.style.top = "-100px";  // Déplace le menu vers le haut pour le cacher
+                } else {
+                    // Scroll vers le haut, on montre le menu
+                    nav.style.top = "0";
+                }
+                lastScrollTop = scrollTop;
+            });
+        });
+    </script>
 </head>
 
 <!-- Menu de navigation fixe -->
-<nav style="position: fixed; top: 0; left: 0; width: 100%; background-color: #8b4513; color: white; text-align: center; padding: 10px 0; z-index: 1000;">
+<nav style="position: fixed; top: 0; left: 0; width: 100%; background-color: #8b4513; color: white; text-align: center; padding: 10px 0; z-index: 1000; transition: top 0.3s;">
     <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center; gap: 20px;">
         <li><a href="#history" style="color: white; text-decoration: none; font-size: 1.2em;">History</a></li>
         <li><a href="#culture" style="color: white; text-decoration: none; font-size: 1.2em;">Culture</a></li>
