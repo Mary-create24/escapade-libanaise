@@ -30,7 +30,6 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 - [Tourism](tourism.md)
 - [When to Visit Lebanon](when-to-visit.md)
 
-![Lebanon](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/1-image-liban.jpg)
 
 **Discover the Beauty of Lebanon!**
 
