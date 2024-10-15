@@ -1,4 +1,4 @@
-<html>
+
     <head>
         <link rel="stylesheet" href="style.css">
         <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
@@ -31,5 +31,5 @@
     - [Middle East Airlines (MEA)](mea.md)
     - [When to Visit Lebanon](when-to-visit.md)
 
-</html>
+
 **Discover the Beauty of Lebanon!**
