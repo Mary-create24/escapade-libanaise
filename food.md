@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 # Lebanese Cuisine
 
 Lebanese cuisine is known for its rich flavors, fresh ingredients, and variety of dishes. It reflects the diverse cultural influences that have shaped Lebanon over the centuries.
