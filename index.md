@@ -1,6 +1,5 @@
 <head>
     <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
 </head>
 
 <!-- Full-width image with center alignment -->
