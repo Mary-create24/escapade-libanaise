@@ -2,11 +2,24 @@
     <link rel="stylesheet" href="style.css">
 </head>
 
+<!-- Menu de navigation fixe -->
+<nav style="position: fixed; top: 0; left: 0; width: 100%; background-color: #8b4513; color: white; text-align: center; padding: 10px 0; z-index: 1000;">
+    <ul style="list-style-type: none; margin: 0; padding: 0; display: flex; justify-content: center; gap: 20px;">
+        <li><a href="#history" style="color: white; text-decoration: none; font-size: 1.2em;">History</a></li>
+        <li><a href="#culture" style="color: white; text-decoration: none; font-size: 1.2em;">Culture</a></li>
+        <li><a href="#food" style="color: white; text-decoration: none; font-size: 1.2em;">Food</a></li>
+        <li><a href="#restaurants" style="color: white; text-decoration: none; font-size: 1.2em;">Restaurants</a></li>
+        <li><a href="#tourism" style="color: white; text-decoration: none; font-size: 1.2em;">Tourism</a></li>
+        <li><a href="#mea" style="color: white; text-decoration: none; font-size: 1.2em;">MEA</a></li>
+        <li><a href="#when-to-visit" style="color: white; text-decoration: none; font-size: 1.2em;">When to Visit</a></li>
+    </ul>
+</nav>
+
 <!-- Full-width image with center alignment -->
-<p style="text-align: center;">
+<p style="text-align: center; margin-top: 60px;"> <!-- Ajout d'une marge pour compenser le menu fixe -->
   <a href="when-to-visit.md">
     <img src="https://raw.githubusercontent.com/Mary-create24/escapade-libanaise/main/images/1-image-liban.jpg" alt="Image du Liban" style="width: 100%;">
-    </a>
+  </a>
 </p>
 
 <!-- Stylized title -->
@@ -22,12 +35,25 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 
 ## Sections
 
+### History {#history}
 - [History](history.md)
+
+### Culture {#culture}
 - [Culture](culture.md)
+
+### Food {#food}
 - [Food](food.md)
+
+### Restaurants {#restaurants}
 - [Restaurants](restaurant.md)
+
+### Tourism {#tourism}
 - [Tourism](tourism.md)
-- [Middle East Airlines (MEA)](mea.md)
+
+### Middle East Airlines (MEA) {#mea}
+- [MEA](mea.md)
+
+### When to Visit Lebanon {#when-to-visit}
 - [When to Visit Lebanon](when-to-visit.md)
 
 **Discover the Beauty of Lebanon!**
