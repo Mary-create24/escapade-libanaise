@@ -9,6 +9,8 @@ Lebanon is a year-round destination, with each season offering unique experience
 
 ## Spring (March to May)
 
+![spring]https://tse2.mm.bing.net/th?id=OIP.cKWvMjXaos533sIERrWeTQHaFN&pid=Api&P=0&h=220
+
 Spring is one of the best times to visit Lebanon. The weather is mild and pleasant, making it perfect for outdoor activities. The landscapes come alive with blooming flowers, especially in regions like the Bekaa Valley and the mountains.
 
 ### Events and Activities:
