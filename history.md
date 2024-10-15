@@ -1,3 +1,6 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
 # History of Lebanon
 
 ## Ancient History
