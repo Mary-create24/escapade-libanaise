@@ -26,7 +26,7 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 - [History](history.md)
 - [Culture](culture.md)
 -  [Food](food.md)
-- [Restaurants](restaurants.md)
+- [Restaurants](restaurant.md)
 - [Tourism](tourism.md)
 - [Middle East Airlines (MEA)](mea.md)
 - [When to Visit Lebanon](when-to-visit.md)
