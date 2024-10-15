@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
 # When to Visit Lebanon
 
 Lebanon is a year-round destination, with each season offering unique experiences. Here’s a guide to help you decide when to visit.
