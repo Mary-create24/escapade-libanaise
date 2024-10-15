@@ -1,6 +1,7 @@
 <head>
     <link rel="stylesheet" href="style.css">
-    <script>
+    
+<script>
         // Script pour cacher le menu lorsque l'utilisateur scroll vers le bas
         document.addEventListener("DOMContentLoaded", function() {
             let lastScrollTop = 0;
