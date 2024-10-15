@@ -29,5 +29,7 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 - [Tourism](tourism.md)
 - [Middle East Airlines (MEA)](mea.md)
 - [When to Visit Lebanon](when-to-visit.md)
-
+<footer>
+    
 **Discover the Beauty of Lebanon!**
+</footer>
