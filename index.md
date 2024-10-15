@@ -4,7 +4,7 @@
 
 <!-- Full-width image with center alignment -->
 <p style="text-align: center;">
-  <a href="https://raw.githubusercontent.com/Mary-create24/escapade-libanaise/main/when-to-visit.md">
+  <a href="when-to-visit.md">
     <img src="https://raw.githubusercontent.com/Mary-create24/escapade-libanaise/main/images/1-image-liban.jpg" alt="Image du Liban" style="width: 100%;">
     </a>
 </p>
