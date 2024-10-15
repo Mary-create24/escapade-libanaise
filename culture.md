@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
 # Culture of Lebanon
 
 Lebanon boasts a rich and diverse culture that reflects its long history and the various civilizations that have influenced it over the centuries. From its vibrant cuisine to its traditional music, Lebanese culture is a blend of various influences, making it unique.
