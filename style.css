@@ -67,29 +67,36 @@ a:hover {
 
 /* Style pour les images */
 img {
-    max-width: 100%;
-    height: auto;
+    display: block;
+    margin: 20px auto; /* Centre l'image */
+    max-width: 80%; /* Image responsive, ne dépasse pas 80% de la largeur de l'écran */
+    height: auto; /* Conserve les proportions */
     border-radius: 10px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
     transition: transform 0.3s ease;
-    display: flex;
-    justify-content: center;
-    align-item: center;
 }
 
 img:hover {
-    transform: scale(1.05);
+    transform: scale(1.05); /* Effet de zoom au survol */
 }
 
-/* Conteneur principal */
-.container {
-    width: 90%;
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 20px;
-    background-color: #fff;
-    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+/* Conteneur d'image */
+.image-container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* Option pour les images spécifiques de taille fixe */
+.img-small {
+    max-width: 50%; /* Limite à 50% de la largeur de l'écran */
+}
+
+.img-medium {
+    max-width: 70%; /* Limite à 70% de la largeur de l'écran */
+}
+
+.img-large {
+    max-width: 100%; /* Prend toute la largeur disponible */
 }
 
 /* Liste avec des effets de carte */
