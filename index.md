@@ -1,4 +1,4 @@
-<html class= "main">
+
 <head>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@700&display=swap" rel="stylesheet">
@@ -33,5 +33,3 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 
 
 **Discover the Beauty of Lebanon!**
-
-</html>
