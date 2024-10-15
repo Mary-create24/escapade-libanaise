@@ -12,7 +12,7 @@ Lebanese cuisine is known for its rich flavors, fresh ingredients, and variety o
 
 Hummus is a popular dip made from blended chickpeas, tahini, lemon juice, and garlic. It is often served with pita bread and garnished with olive oil and paprika.
 
-![Hummus](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/hummus.jpg){:class="img-medium"}
+![Alt text](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/hummus.jpg){:class="img-medium"}
 
 ### 2. Tabbouleh
 
