@@ -1,3 +1,8 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+
 # Tourism in Lebanon
 
 Lebanon is a beautiful country that offers a diverse range of attractions for tourists. From stunning landscapes to rich historical sites, there is something for everyone.
