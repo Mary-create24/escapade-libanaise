@@ -22,12 +22,13 @@ Explore the rich culture and history of Lebanon. Here are some sections to check
 
 ## Sections
 
+
+- [History](history.md)
 - [Culture](culture.md)
 - [Food](food.md)
-- [History](history.md)
-- [Middle East Airlines (MEA)](mea.md)
 - [Restaurants](restaurants.md)
 - [Tourism](tourism.md)
+- [Middle East Airlines (MEA)](mea.md)
 - [When to Visit Lebanon](when-to-visit.md)
 
 
