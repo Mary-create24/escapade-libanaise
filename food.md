@@ -12,13 +12,13 @@ Lebanese cuisine is known for its rich flavors, fresh ingredients, and variety o
 
 Hummus is a popular dip made from blended chickpeas, tahini, lemon juice, and garlic. It is often served with pita bread and garnished with olive oil and paprika.
 
-![Hummus](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/lebanese-cuisine.jpg)
+![Hummus](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/hummus.jpg)
 
 ### 2. Tabbouleh
 
 Tabbouleh is a refreshing salad made from finely chopped parsley, tomatoes, mint, onion, and soaked bulgur. It is dressed with olive oil and lemon juice, making it a perfect side dish.
 
-![Tabbouleh](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/tabbouleh.jpg)
+![Tabbouleh](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/tabouleh.jpg)
 
 ### 3. Kibbeh
 
@@ -32,7 +32,7 @@ Kibbeh is a traditional Lebanese dish made of ground meat (often lamb), bulgur, 
 
 Baklava is a rich, sweet pastry made of layers of filo dough filled with chopped nuts and sweetened with honey or syrup. It is a popular dessert in Lebanon and throughout the Middle East.
 
-![Baklava](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/baklava.jpg)
+![Baklava](https://github.com/Mary-create24/escapade-libanaise/raw/main/images/baklawa.jpg)
 
 ### 2. Maamoul
 
