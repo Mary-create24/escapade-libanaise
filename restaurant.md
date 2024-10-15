@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+
 # Lebanese Restaurants
 
 Lebanon is renowned for its vibrant culinary scene, offering a variety of delicious dishes that reflect its rich cultural heritage. Here are some must-visit restaurants where you can enjoy authentic Lebanese cuisine.
