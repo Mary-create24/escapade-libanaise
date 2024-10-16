@@ -19,6 +19,8 @@ Spring is one of the best times to visit Lebanon. The weather is mild and pleasa
 
 ## Summer (June to August)
 
+![summer](https://tse4.mm.bing.net/th?id=OIP.PJxkoG9clmrSL4IXq_W-xwHaE8&pid=Api&P=0&h=220)
+
 Summer is peak tourist season in Lebanon, with warm temperatures and plenty of outdoor activities. The coastal areas, particularly Beirut and Batroun, are popular for beachgoers.
 
 ### Events and Activities:
@@ -27,6 +29,8 @@ Summer is peak tourist season in Lebanon, with warm temperatures and plenty of o
 
 ## Autumn (September to November)
 
+![autumn](https://tse4.mm.bing.net/th?id=OIP.sDgyvZY3OJfDjhcPd3ay2wAAAA&pid=Api&P=0&h=220)
+
 Autumn is another great time to visit Lebanon. The weather remains warm, and the summer crowds start to thin out. The vineyards in the Bekaa Valley are in full harvest, making it a perfect time for wine enthusiasts.
 
 ### Events and Activities:
@@ -34,6 +38,8 @@ Autumn is another great time to visit Lebanon. The weather remains warm, and the
 - **Cultural Events**: Attend art exhibitions, music festivals, and local fairs.
 
 ## Winter (December to February)
+
+![winter](https://tse1.mm.bing.net/th?id=OIP.ko1bW6-3ZlwddbQBKBL1GgHaE6&pid=Api&P=0&h=220)
 
 Winter in Lebanon brings cooler temperatures, especially in the mountainous regions, where you can experience snowfall and winter sports.
 
